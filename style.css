@@ -1,0 +1,40 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    margin: 5px;
+    padding: 10px
+}
+h2 {
+    font-size: 36px;
+}
+.container {
+    display:flex;
+}
+.column {
+    flex: 1;
+    padding: 10px;
+    margin: 5px;
+    background-color: #c0faf7;
+    text-align: center;
+}
+img {
+    height: 550px;
+    width: 400px;
+}
+a {
+    font-size: 18px;
+}
+.connectors {
+font-size: 30px;
+color: rgb(0, 0, 0);
+}
+li {
+    font-size: 28px
+}
+iframe {
+    height: 400px;
+    width: 600px;
+}
